@@ -1,0 +1,24 @@
+{
+  "name": "docker-deploy",
+  "version": "0.0.1",
+  "description": "Utility for building docker images, tagging and pushing to docker registries.",
+  "main": "bin/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/elifraha/docker-deploy.git"
+  },
+  "keywords": [
+    "nodejs",
+    "expressjs",
+    "docker"
+  ],
+  "author": "Elifuraha Natai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elifraha/docker-deploy/issues"
+  },
+  "homepage": "https://github.com/elifraha/docker-deploy#readme"
+}
